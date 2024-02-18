@@ -1,5 +1,7 @@
-📦 Tech Stack: HTML, CSS, JavaScript 
-👩🏽‍🍳 Features: When DOM loads, site takes user's location if allowed and centers map based on location. User's location is on the center of the map. 
-User on click on the map can tag workout that they have done (Running or Cycling), distance, duration and cadence can be typed in manuelly too.
-💭 Process: This was the final project of the course that i was going through and classes were explained perfectly how they work, so I took my time to graduatelly implement that knowledge to my skillset and made this website along the host.
-📚 Learnings: ES6 feautures and Classes are highely used in this project and it needed deeper learning.
+📦 Tech Stack: HTML, CSS, JavaScript
+
+👩🏽‍🍳 Features: Upon DOM load, the site fetches the user's location (if allowed) and centers the map accordingly. The user's location serves as the center of the map. Users can click on the map to tag their workouts, specifying details such as the type (Running or Cycling), distance, duration, and cadence, which can also be manually entered.
+
+💭 Process: This project served as a platform for mastering classes, allowing me to gradually implement and solidify my understanding of this fundamental concept. Classes were comprehensively explained throughout the course, and I successfully incorporated them into the project to enhance my skill set. The website was developed and hosted as part of this learning journey.
+
+📚 Learnings: The project extensively leverages ES6 features and Classes, necessitating a deep dive into these concepts to achieve successful implementation.
